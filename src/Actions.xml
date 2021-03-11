@@ -1,0 +1,7 @@
+<ACTIONS>
+    <ACTION NAME="Hello_World!">
+        <CODE>
+            new HelloWorld (view);
+        </CODE>
+    </ACTION>
+</ACTIONS>

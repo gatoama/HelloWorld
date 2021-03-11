@@ -1,0 +1,10 @@
+# Plugin properties
+plugin.HelloWorldPlugin.name=Hello World!
+plugin.HelloWorldPlugin.author=Jairo Martinez
+plugin.HelloWorldPlugin.version=1.0
+plugin.HelloWorldPlugin.docs=HelloWorld.html
+plugin.HelloWorldPlugin.menu=Hello_World!
+
+# HelloWorld window
+HelloWorld.title=Hello World plugin
+HelloWorld.caption=Hello World!
